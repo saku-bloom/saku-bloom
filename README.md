@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Salut, je suis Sahra  
 
-<!--
-**saku-bloom/saku-bloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Data Analyst en devenir | Passionnée par la data & l’IA  
+🌱 J’apprends actuellement : Python, SQL, Power BI  
+💡 Objectif : transformer les données en insights utiles  
 
-Here are some ideas to get you started:
+## 📊 Mes Stats GitHub
+![Mes stats](https://github-readme-stats.vercel.app/api?username=sahraourari&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Outils & Langages
+- Python 🐍
+- SQL 🗂️
+- Power BI 📊
+- Git & GitHub 🌐
+
+## 📫 Me contacter
+[LinkedIn](https://www.linkedin.com/in/sahra-ourari-3b628a303/) | [Email](mailto:ourari@estin.dz)
