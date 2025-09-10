@@ -12,18 +12,13 @@
 
 ---
 
-## 🌐 Contact & Social
+## 📄 My CV
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahra-ourari-3b628a303/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4" />
-  </a>
-  <a href="mailto:ourari@estin.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffb6c1" />
-  </a>
   <a href="https://github.com/saku-bloom/saku-bloom/blob/main/CV_Sahra_Ourari.pdf">
-    <img src="https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge&logo=adobeacrobatreader" />
+    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=ff69b4" />
   </a>
 </p>
+
 
 
 ---
