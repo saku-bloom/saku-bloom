@@ -20,7 +20,11 @@
   <a href="mailto:ourari@estin.dz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffb6c1" />
   </a>
+  <a href="https://github.com/saku-bloom/saku-bloom/blob/main/CV_Sahra_Ourari.pdf">
+    <img src="https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
 </p>
+
 
 ---
 
