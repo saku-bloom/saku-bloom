@@ -14,7 +14,7 @@
 
 ## 📄 My CV
 <p align="center">
-  <a href="https://github.com/saku-bloom/saku-bloom/blob/main/CV_Sahra_Ourari.pdf">
+  <a href="https://github.com/saku-bloom/saku-bloom/blob/main/CV_sahra_ourari.pdf">
     <img src="https://img.shields.io/badge/📄%20View%20My%20CV-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=ff69b4" />
   </a>
 </p>
