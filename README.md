@@ -1,5 +1,5 @@
-# Hi, I'm Sahra 🌸  
-**Data Analyst | Data Engineer | Passionnée par la Data & l’IA**
+# Hi, I'm Sahra Ourari 🌸  
+**Data Analyst | Data Engineer | IA**
 
 ---
 
