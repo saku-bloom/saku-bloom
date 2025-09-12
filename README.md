@@ -25,15 +25,6 @@
 
 
 
-## 🎓 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Coursera-FF69B4?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Udemy-FFB6C1?style=for-the-badge&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-University-FFC0CB?style=for-the-badge&logo=academic&logoColor=white" />
-</p>
-
----
-
 ### 💭 Quote
 > “Data is the new oil, creativity is the engine.” ✨
 
