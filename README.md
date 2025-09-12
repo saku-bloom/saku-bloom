@@ -8,7 +8,7 @@
 💡 Passionate about **Data Science** and **Data Analytics**  
 🎨 Creative thinker with an eye for elegant solutions  
 🌱 Always learning, experimenting, and exploring new ideas  
-✨ Believer in combining intelligence with beauty and simplicity  
+ 
 
 ---
 
