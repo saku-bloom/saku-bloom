@@ -3,12 +3,11 @@
 
 ---
 
-## 📄 About Me
-- 🎓 Master 2 en **Intelligence Artificielle**  
-- 📊 Passionnée par **l’analyse et la valorisation des données**  
-- 🌱 J’apprends actuellement : **Python, SQL, Power BI, GitHub**  
-- 💡 Objectif : **transformer les données en insights utiles**  
-- 🌸 Fun fact : J’adore ajouter des couleurs à la data 🌈  
+### 👋 Welcome to my GitHub  
+
+💡 Passionate about **Data Science** and **Data Analytics**  
+✨ Constantly curious and eager to explore new ideas  
+
 
 ---
 
