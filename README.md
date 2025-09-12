@@ -23,16 +23,7 @@
   </a>
 </p>
 
----
 
-## 🚀 Featured Projects
-<p align="center">
-  <b>Project 1:</b> Predictive Analytics Dashboard – <a href="#">GitHub</a> | <a href="#">Live Demo</a><br>
-  <b>Project 2:</b> Sales Data Visualization – <a href="#">GitHub</a> | <a href="#">Live Demo</a><br>
-  <b>Project 3:</b> Machine Learning Model for Customer Insights – <a href="#">GitHub</a> | <a href="#">Live Demo</a>
-</p>
-
----
 
 ## 🎓 Certifications
 <p align="center">
