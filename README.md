@@ -11,10 +11,14 @@
 
 ---
 
-## 📄 My CV
+## 📄 My CV & Portfolio
 <p align="center">
   <a href="https://github.com/saku-bloom/saku-bloom/blob/main/CV_sahra_ourari.pdf">
     <img src="https://img.shields.io/badge/📄%20View%20My%20CV-pink?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=ff69b4" />
+  </a>
+  &nbsp;&nbsp; <!-- ajoute un peu d’espace entre les badges -->
+  <a href="https://saku-bloom.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌟%20View%20My%20Portfolio-pink?style=for-the-badge&logo=github&logoColor=white&color=ff69b4" />
   </a>
 </p>
 
