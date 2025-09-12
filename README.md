@@ -8,7 +8,7 @@
 💡 Passionate about **Data Science** and **Data Analytics**  
 🎨 Creative thinker with an eye for elegant solutions  
 🌱 Always learning, experimenting, and exploring new ideas  
- 
+✨ Believer in combining intelligence with beauty and simplicity  
 
 ---
 
@@ -20,6 +20,44 @@
   &nbsp;&nbsp;
   <a href="https://saku-bloom.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌟%20View%20My%20Portfolio-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+  <b>Project 1:</b> Predictive Analytics Dashboard – <a href="#">GitHub</a> | <a href="#">Live Demo</a><br>
+  <b>Project 2:</b> Sales Data Visualization – <a href="#">GitHub</a> | <a href="#">Live Demo</a><br>
+  <b>Project 3:</b> Machine Learning Model for Customer Insights – <a href="#">GitHub</a> | <a href="#">Live Demo</a>
+</p>
+
+---
+
+## 🎓 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Coursera-FF69B4?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Udemy-FFB6C1?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-University-FFC0CB?style=for-the-badge&logo=academic&logoColor=white" />
+</p>
+
+---
+
+### 💭 Quote
+> “Data is the new oil, creativity is the engine.” ✨
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahra-ourari-3b628a303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ourari@estin.dz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/213779406611">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
