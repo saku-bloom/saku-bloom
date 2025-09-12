@@ -49,10 +49,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=for-the-badge&logo=pandas&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerBI-ffb6c1?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black" />
 </p>
+
 
 ---
 
